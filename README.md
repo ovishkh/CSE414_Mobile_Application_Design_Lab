@@ -41,6 +41,7 @@ CSE414 Mobile Application Design Lab is designed to provide students with hands-
 To get started with the lab exercises, clone this repository to your local machine:
 ```
 git clone https://github.com/your-username/CSE414_Mobile_Application_Design_Lab.git
+
 ```
 Navigate to the project directory and follow the instructions in each lab exercise folder.
 ## Contributing
@@ -51,3 +52,8 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 For any questions or inquiries, please contact the course instructor at @ovishkh
 
 Happy Coding!
+
+```
+git add . && git commit -m "29/01/2026" && git push
+
+```
