@@ -32,16 +32,36 @@ class A extends D {
     print("Class A");
   }
 
-  void a_method() {
+  void a() {
     print("From class A");
   }
 }
 
 
 
+mixin D on class A{
+
+
+
+}
+
+mixin D extends class A{
+
+
+
+}
+
+class C extends A with D,B {
+
+
+
+}
+
+
 
 
 void main() {
   var Obj_A = A();
+    Obj_A.a();
 
 }
